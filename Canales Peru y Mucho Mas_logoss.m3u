@@ -1,7 +1,18 @@
-#EXTINF:-1 tvg-name="Panamericana" tvg-logo= "https://www.dropbox.com/s/a3swyk5ng5cirow/panamericana.png?dl=0"group-title="Perú",Panamericana
+#EXTINF:-1 group-title="Perú" tvg-logo="https://dl.dropboxusercontent.com/s/ecnx3p73qvp6j2u/13%20Max.png",13 Max
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Panamericana" tvg-logo="https://www.dropbox.com/s/a3swyk5ng5cirow/panamericana.png?dl=0" group-title="Perú",Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-name="Willax" tvg-logo= "https://www.dropbox.com/s/s77pqqdfrj61b7c/willax.png?dl=0"group-title="Perú",Willax
+
+#EXTINF:-1 tvg-name="Panamericana" tvg-logo="https://www.dropbox.com/s/a3swyk5ng5cirow/panamericana.png?dl=0"group-title="Perú",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 group-title="Perú" tvg-logo="https://www.dropbox.com/s/a3swyk5ng5cirow/panamericana.png?dl=0",Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+
+#EXTINF:-1 tvg-name="Willax" tvg-logo="https://www.dropbox.com/s/s77pqqdfrj61b7c/willax.png?dl=0" group-title="Perú",Willax
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmlAzf4FVVoATcovSPuVVPrk)/dm/3/x7x4dgx/s/live-2.m3u8
 
 #EXTINF:-1 tvg-name="Tvperu" tvg-logo= "https://www.dropbox.com/s/9g820g0qwqfn26b/tvperu.png?dl=0"group-title="Perú",Tvperu
@@ -747,10 +758,6 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Retro Tv 4 " tvg-logo= "https://www.dropbox.com/s/dcee30r7bydumtg/MI%20TV%20Retro%20TV%20.png?dl=0"group-title="Perú",Retro Tv 4
 http://animeloving.net/hls/stream.m3u8
-
-
-
-
 
 
 
